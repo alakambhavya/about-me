@@ -1,0 +1,6 @@
+print("about me")
+print("name:alakam bhavya sree")
+print("roll no:3207")
+print("course:python")
+print("phone:9032628875")
+print("place:mpl")
